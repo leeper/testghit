@@ -2,5 +2,5 @@ Package: testghit
 Title: Testing 'ghit'
 Version: 0.0.1
 Authors@R: person("Thomas", "Leeper", email = "thosjleeper@gmail.com", role = c("aut", "cre"))
-Description: Used solely for testing 'ghit' <https://cran.r-project.org/package=ghit> functionality.
+Description: Used solely for testing 'ghit' <https://cran.r-project.org/package=ghit> functionality related to pull requests.
 License: Unlimited
